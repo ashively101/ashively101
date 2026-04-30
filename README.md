@@ -18,7 +18,7 @@ I build practical AI tools and lead the operations, finance, and project work th
 
 ### Focus Areas
 
-![AI](https://img.shields.io/badge/AI%20Builder-0A0A0A?style=for-the-badge&logo=openai&logoColor=white)
+![AI](https://img.shields.io/badge/AI%20Builder-6B7280?style=for-the-badge&logo=openai&logoColor=white)
 ![Project Management](https://img.shields.io/badge/Project%20Management-1F6FEB?style=for-the-badge&logo=jira&logoColor=white)
 ![Finance](https://img.shields.io/badge/Finance-117A65?style=for-the-badge&logo=quickbooks&logoColor=white)
 ![Leadership](https://img.shields.io/badge/Leadership-6F42C1?style=for-the-badge)
@@ -28,15 +28,19 @@ I build practical AI tools and lead the operations, finance, and project work th
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-25A162?style=flat-square&logo=fastapi&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashively101&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats" height="160" />
-</p>
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E?style=flat-square&logo=microsoft&logoColor=white)
+![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white)
 
 ---
 
